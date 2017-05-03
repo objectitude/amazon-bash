@@ -1,0 +1,5 @@
+1- manage user right (run not every thing as root)
+1.1- rely on sudo for this?
+2- capture MAC address of dash button and accordingly create config file
+3- make main scripts using the config file
+4- rely on first output from tcpdump
